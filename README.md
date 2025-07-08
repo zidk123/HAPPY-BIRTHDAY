@@ -4,10 +4,6 @@
   <meta charset="UTF-8">
   <title>Happy Birthday</title>
   <style>
-    html {
-  scroll-behavior: smooth;
-  scroll-padding-top: 60px;
-}
     body { font-family: sans-serif; margin: 0; }
     nav { position: fixed; top: 0; width: 100%; background: #fff; border-bottom: 1px solid #ddd; z-index: 10; }
     nav ul { list-style: none; display: flex; justify-content: center; margin: 0; padding: 10px 0; }
@@ -111,4 +107,3 @@
   </script>
 
 </body>
-</html>
